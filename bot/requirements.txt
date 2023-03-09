@@ -1,2 +1,3 @@
 pydle
 duckduckgo3
+asyncio
