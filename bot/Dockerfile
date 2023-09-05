@@ -1,4 +1,4 @@
-FROM python:3.9.16-alpine3.17
+FROM python:3.11.5-alpine3.17
 RUN apk add git curl traceroute whois nmap wget figlet bc openssh bash
 WORKDIR /bot
 COPY . .
